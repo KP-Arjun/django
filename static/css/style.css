@@ -1,0 +1,8 @@
+/* ul:hover{
+    background-color: gray;
+    border-radius: 10px;
+    border: 1px solid yellow;
+} */
+ul :hover{
+    background-color: rgb(8, 159, 99);
+}
